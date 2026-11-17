@@ -1,0 +1,6 @@
+{
+  "name": "Computer Hero — Misi Laboratorium TKJ",
+  "description": "Game edukasi interaktif dua regu (Merah vs Biru) bersama Mr. Hardware untuk menguasai pengenalan komponen, perakitan PC, kompatibilitas, dan troubleshooting komputer dalam 6 level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
